@@ -1,8 +1,10 @@
-package com.example.roomexample;
+package com.example.roomexample.ui;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.example.roomexample.R;
 
 public class MainActivity extends AppCompatActivity {
 
